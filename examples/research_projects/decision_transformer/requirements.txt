@@ -54,7 +54,7 @@ execnet==1.9.0
 executing==0.8.3
 faiss-cpu==1.7.2
 fasteners==0.17.3
-filelock==3.6.0
+filelock==3.20.3
 fire==0.4.0
 flake8==4.0.1
 Flask==2.3.2
